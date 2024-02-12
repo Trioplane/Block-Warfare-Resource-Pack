@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/popped_chorus_fruit"
+  },
+  "overrides": [
+    { "model": "minecraft:item/decorations/garage_door/garage_door_bottom_left", "predicate": { "custom_model_data": 10000 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_bottom_middle", "predicate": { "custom_model_data": 10001 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_bottom_right", "predicate": { "custom_model_data": 10002 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_middle_left", "predicate": { "custom_model_data": 10003 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_middle", "predicate": { "custom_model_data": 10004 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_middle_right", "predicate": { "custom_model_data": 10005 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_top_left", "predicate": { "custom_model_data": 10006 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_top_middle", "predicate": { "custom_model_data": 10007 } },
+    { "model": "minecraft:item/decorations/garage_door/garage_door_top_right", "predicate": { "custom_model_data": 10008 } }
+  ]
+}
