@@ -12,6 +12,8 @@
     { "model": "minecraft:item/decorations/garage_door/garage_door_middle_right", "predicate": { "custom_model_data": 10005 } },
     { "model": "minecraft:item/decorations/garage_door/garage_door_top_left", "predicate": { "custom_model_data": 10006 } },
     { "model": "minecraft:item/decorations/garage_door/garage_door_top_middle", "predicate": { "custom_model_data": 10007 } },
-    { "model": "minecraft:item/decorations/garage_door/garage_door_top_right", "predicate": { "custom_model_data": 10008 } }
+    { "model": "minecraft:item/decorations/garage_door/garage_door_top_right", "predicate": { "custom_model_data": 10008 } },
+    
+    { "model": "minecraft:item/decorations/map_site_outlines/mudstone_village_a_site_outline", "predicate": { "custom_model_data": 10009 } }
   ]
 }

@@ -1,1 +1,2 @@
 execute align xyz run summon item_display ~0.5 ~0.5 ~0.5 {item:{id:"minecraft:popped_chorus_fruit",Count:1b,tag:{CustomModelData:10000}}}
+execute align xyz run summon item_display ~0.5 ~0.5 ~0.5 {item:{id:"minecraft:popped_chorus_fruit",Count:1b,tag:{CustomModelData:10000}},Rotation:[-90f,0f]}
