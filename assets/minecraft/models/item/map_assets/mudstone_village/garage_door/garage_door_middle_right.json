@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/garage_door/garage_door_middle_left",
-		"particle": "block/garage_door/garage_door_middle_left"
+		"0": "block/map_assets/mudstone_village/garage_door/garage_door_middle_left",
+		"particle": "block/map_assets/mudstone_village/garage_door/garage_door_middle_left"
 	},
 	"elements": [
 		{
